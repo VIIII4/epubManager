@@ -1,0 +1,5 @@
+
+PyQt6>=6.0.0          # GUI框架
+chardet>=5.0.0        # 文件编码检测
+lxml>=4.9.0           # XML解析处理
+python-dateutil>=2.8  # 日期时间处理
